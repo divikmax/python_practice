@@ -1,2 +1,13 @@
-# python_practice
-This repository contains Python questions and problems that I practice while learning and improving my Python skills. It serves as a collection of coding exercises to strengthen my problem-solving and programming abilities. I’ll regularly update this repository with new Python questions and solutions as I continue learning.
+## Python Practice
+
+This repository contains all the Python questions and problems I practice while learning and improving my Python programming skills.
+
+The goal of this repository is to:
+
+* Practice Python concepts and problem-solving
+* Improve coding skills through regular practice
+* Keep track of solved questions and exercises
+* Build a collection of Python practice problems for future reference
+* Track my learning progress over time
+
+This repository will be updated regularly as I continue practicing Python.
